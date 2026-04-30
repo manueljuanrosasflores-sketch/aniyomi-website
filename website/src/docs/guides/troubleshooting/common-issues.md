@@ -78,7 +78,8 @@ Encountering HTTP errors? Here's what they mean and how to address them.
 
 ### `HTTP Error: 403` - Forbidden
 Possible reasons for this error:
-* The selected source has Cloudflare protection. Check the [Cloudflare guide](/docs/guides/troubleshooting/#cloudflare) for solutions.
+* The selected source has Cloudflare protection. Check the [Cloudflare guide](/docs/guides/troubleshooting/#cl
+* oudflare) for solutions.
 * The source might be down, removed the series, or banned your IP.
   > Open WebView to confirm.
 
